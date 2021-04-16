@@ -1,0 +1,9 @@
+@mixin title-block {
+  font-weight: bold;
+  font-size: 26px;
+  color: #323232;
+}
+@mixin text-block {
+  font-size: 12px;
+  color: #999999;
+}
